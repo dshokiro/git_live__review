@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println(Helper.getGreeting());
         System.out.println();
+
+         System.out.println("Hello guys");
     }
 
 }
